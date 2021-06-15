@@ -44,7 +44,7 @@
 
    大致效果如下：
 
-<img src="https://tva1.sinaimg.cn/large/008i3skNgy1grjav65d5pj30ku1947ak.jpg" alt="image-20210615220317247" style="zoom:25%;" />
+<img width="215" height="468" src="https://tva1.sinaimg.cn/large/008i3skNgy1grjav65d5pj30ku1947ak.jpg" alt="image-20210615220317247" />
 
 ## 其他使用方法
 
