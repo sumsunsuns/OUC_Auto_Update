@@ -26,7 +26,7 @@
 1. fork本项目到自己账户
 2. 抓包找到自己的`eai-sess`和`form_data` (这里我使用charles在电脑上抓了企业微信的包)
 
-3. 配置sever酱，获得sendkey，[使用连接](https://sct.ftqq.com/)
+3. 配置sever酱，获得sendkey，[使用链接](https://sct.ftqq.com/)
 
 4. 设置自己的项目中的secret（回到项目页面，依次点击`Settings`-->`Secrets`-->`New secret`），secret设置的是时候名称必须为以下三个，不能有错
 
@@ -40,7 +40,7 @@
 
 5. 在github action 中手动执行一次运行，成功的话sever酱应该会收到消息了，然后坐等每天自己报就行了。
 
-6. 默认设置的是utc事件0:01分执行脚本，北京时间的话就是早上8点，但是github action 的不准时原因，一般在早上8-10点的时候就可以收到上报成功的消息了。
+6. 默认设置的是UTC时间0:01分执行脚本，北京时间的话就是早上8点，但是github action 的不准时原因，一般在早上8-10点的时候就可以收到上报成功的消息了。
 
    大致效果如下：
 
